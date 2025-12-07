@@ -5,6 +5,9 @@
       <SelectionState runConfigName="LoginFormPractice.app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="Kotlin_Activities.LoginFormPractice.app">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>

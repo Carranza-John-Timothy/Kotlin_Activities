@@ -18,10 +18,9 @@ class WelcomeActivity : AppCompatActivity() {
             startActivity(intent)
         }
         
-        // Placeholder for register activity
         registerButton.setOnClickListener {
-            // val intent = Intent(this, RegisterActivity::class.java)
-            // startActivity(intent)
+            val intent = Intent(this, RegisterActivity::class.java)
+            startActivity(intent)
         }
     }
 }

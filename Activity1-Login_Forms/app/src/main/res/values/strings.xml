@@ -1,12 +1,16 @@
 <resources>
     <string name="app_name">LoginFormPractice</string>
-    <string name="loginButton">Login</string>
+    <string name="loginButton">Sign In</string>
     <string name="registerButton">Register</string>
     <string name="welcomeMessage">Welcome!</string>
     <string name="passwordField">Password</string>
     <string name="usernameField">Username</string>
     <string name="emailField">Email</string>
+    <string name="firstNameField">First Name</string>
+    <string name="lastNameField">Last Name</string>
     <string name="confirmPasswordField">Confirm Password</string>
     <string name="screenTitle">Login</string>
     <string name="registerTitle">Register</string>
+    <string name="signInSubtitle">Sign in to continue</string>
+    <string name="alreadyHaveAccount">Already have an account? Login</string>
 </resources>

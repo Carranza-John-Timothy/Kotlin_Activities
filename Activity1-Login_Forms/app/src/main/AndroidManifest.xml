@@ -26,6 +26,11 @@
         <activity
             android:name=".MainActivity"
             android:exported="false" />
+
+        <!-- Register Activity -->
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
             
     </application>
 
